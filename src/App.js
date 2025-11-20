@@ -299,11 +299,11 @@ function App() {
         <footer className="bg-gray-900 px-6 py-4">
           <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center text-sm text-gray-400">
             <span className="mb-2 sm:mb-0">
-              Created by <a href="https://github.com/mstafam" className="text-blue-400 hover:text-blue-300 transition duration-150 ease-in-out">
-                Mustafa
+              Created by <a href="https://github.com/dotmstfa" className="text-blue-400 hover:text-blue-300 transition duration-150 ease-in-out">
+                Mustafa Sami
               </a>
             </span>
-            <a href="https://github.com/mstafam/GenClimb" className="flex items-center hover:text-gray-200 transition duration-150 ease-in-out">
+            <a href="https://github.com/mstfas/GenClimb" className="flex items-center hover:text-gray-200 transition duration-150 ease-in-out">
               <img src='./assets/github-logo.png' width={20} height={20} alt='GitHub logo' className="mr-2 invert" />
               <span>Source</span>
             </a>
