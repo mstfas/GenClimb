@@ -300,7 +300,7 @@ function App() {
           <div className="max-w-7xl mx-auto flex flex-col sm:flex-row justify-between items-center text-sm text-gray-400">
             <span className="mb-2 sm:mb-0">
               Created by <a href="https://github.com/dotmstfa" className="text-blue-400 hover:text-blue-300 transition duration-150 ease-in-out">
-                Mustafa Sami
+                Mustafa
               </a>
             </span>
             <a href="https://github.com/mstfas/GenClimb" className="flex items-center hover:text-gray-200 transition duration-150 ease-in-out">
